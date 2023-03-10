@@ -1,4 +1,4 @@
-## Recruitment Resources : Freshers
+# Recruitment Resources : Freshers
 
 This is a curated list of resources for the first yearites for the upcoming recruitment test.
 
