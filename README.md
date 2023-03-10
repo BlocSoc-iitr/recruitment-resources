@@ -13,6 +13,7 @@ This is a curated list of resources for the first yearites for the upcoming recr
 
 ### Bitcoin
 * [Grokking Bitcoin](https://rosenbaum.se/book/) (upto Chapter-10 atleast)
+* [Learn Me A Bitcoin](https://learnmeabitcoin.com/)
 
 ### Ethereum
 * [Bitcoin vs Ethereum](https://www.simplilearn.com/tutorials/blockchain-tutorial/ethereum-vs-bitcoin)
@@ -27,3 +28,10 @@ This is a curated list of resources for the first yearites for the upcoming recr
     * **Youtube Channels you can follow, to learn more about DeFi :** [Finematics](https://www.youtube.com/@Finematics), [WhiteBoard Crypto](https://www.youtube.com/@WhiteboardCrypto)
 * [Freecodecamp Lecture by Patrick Collins](https://www.youtube.com/watch?v=gyMwXuJrbJQ) (Cover Basics of Blockchain). Also, if someone wants to learn more, can watch the complete video.
 * [Blogs and Lectures by Blocsoc](https://blocsoc.iitr.ac.in/resources)
+
+### Additional Resources for Bitcoin (Not meant for Recruitment)
+* [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
+* [Mastering the Lightning Network](https://github.com/lnbook/lnbook)
+* [Lighning Network Paper](https://lightning.network/lightning-network-paper.pdf)
+* [Bitcoin Search (in Beta)](https://bitcoinsearch.xyz/) 
