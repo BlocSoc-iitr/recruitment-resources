@@ -22,9 +22,10 @@ This is a curated list of resources for the first yearites for the upcoming recr
     * [Cryptozombies](https://cryptozombies.io/en/course/) (First Six Modules)
     * [Solidity by Example](https://solidity-by-example.org/)
 * Decentralized Finance (DeFi)
-    * Decentralized Exchanges (DEXs) like [Uniswap](./Uniswap-Whitepaper.pdf)
+    * Decentralized Exchanges (DEXs) like [Uniswap](https://uniswap.org/)
     * Lending/Borrowing Protocols ([AAVE](https://aave.com/), [Compound](https://compound.finance/))
     * Stablecoins (USDC, USDT, BUSD etc.)
+    * You can checkout the whitepapers given in the repo for better explaination
     * **Youtube Channels you can follow, to learn more about DeFi :** [Finematics](https://www.youtube.com/@Finematics), [WhiteBoard Crypto](https://www.youtube.com/@WhiteboardCrypto), [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
 * [Freecodecamp Lecture by Patrick Collins](https://www.youtube.com/watch?v=gyMwXuJrbJQ) (Cover Basics of Blockchain). Also, if someone wants to learn more, can watch the complete video.
 * [Blogs and Lectures by Blocsoc](https://blocsoc.iitr.ac.in/resources)
